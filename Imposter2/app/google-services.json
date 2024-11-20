@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721215786876",
+    "project_id": "imposter-4f50f",
+    "storage_bucket": "imposter-4f50f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721215786876:android:99be6e749c039406315ef9",
+        "android_client_info": {
+          "package_name": "com.example.imposter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTh43Y-f5fqdV2leBdVeyZgt7g2wyejQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
